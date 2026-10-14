@@ -1,0 +1,1 @@
+{"user":"aryan.chourasia@hec.edu","action":"PROJECT_DUPLICATE","projectKey":"COPY2OFGROUP1CREDITCARDFRAUD","objectType":"PROJECT","objectId":"GROUP1CREDITCARDFRAUD","details":{"objectDisplayName":"Copy 2 of Group 1 Credit Card Fraud","userDisplayName":"aryan.chourasia"},"time":1769077172811}

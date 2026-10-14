@@ -1,0 +1,9 @@
+{
+    "mapping": {
+        "card__first_active_month": [
+            "QUARTER",
+            "WEEK",
+            "YEAR"
+        ]
+    }
+}

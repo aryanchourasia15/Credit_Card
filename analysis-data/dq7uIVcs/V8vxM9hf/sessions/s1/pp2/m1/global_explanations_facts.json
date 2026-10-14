@@ -1,0 +1,108 @@
+{
+    "perClassFacts": {
+        "unique": {
+            "merchant__subsector_description": {
+                "impact": 0.8664849361967091,
+                "rank": 1,
+                "feature": "merchant__subsector_description",
+                "positiveCategoricalValue": "gym",
+                "negativeCategoricalValue": "internet",
+                "infoGain": 0.5799151714181009,
+                "type": "CATEGORICAL"
+            },
+            "item_category": {
+                "impact": 0.25527744155715226,
+                "rank": 3,
+                "feature": "item_category",
+                "positiveCategoricalValue": "D",
+                "negativeCategoricalValue": "C",
+                "infoGain": 0.6909233093138181,
+                "type": "CATEGORICAL"
+            },
+            "card__age": {
+                "impact": 0.22404921480538453,
+                "rank": 4,
+                "feature": "card__age",
+                "correlation": 0.9927829458285884,
+                "type": "NUMERICAL"
+            },
+            "purchase_amount": {
+                "impact": 0.08529782164143192,
+                "rank": 5,
+                "feature": "purchase_amount",
+                "correlation": -0.9991942983496703,
+                "type": "NUMERICAL"
+            },
+            "purchase_month": {
+                "impact": 0.08109562640568946,
+                "rank": 6,
+                "feature": "purchase_month",
+                "correlation": 0.9585733231654617,
+                "type": "NUMERICAL"
+            },
+            "merchant_category_id": {
+                "impact": 0.05552576679918509,
+                "rank": 9,
+                "feature": "merchant_category_id",
+                "correlation": -0.9881498653961496,
+                "type": "NUMERICAL"
+            },
+            "purchase_hour": {
+                "impact": 0.04839971254787585,
+                "rank": 10,
+                "feature": "purchase_hour",
+                "correlation": 0.9708949013994784,
+                "type": "NUMERICAL"
+            },
+            "card__latitude": {
+                "impact": 0.044475714950265574,
+                "rank": 11,
+                "feature": "card__latitude",
+                "correlation": -0.9974477835435628,
+                "type": "NUMERICAL"
+            },
+            "purchase_day_of_week": {
+                "impact": 0.040493972601623,
+                "rank": 12,
+                "feature": "purchase_day_of_week",
+                "correlation": 0.9289985927301763,
+                "type": "NUMERICAL"
+            },
+            "card__longitude": {
+                "impact": 0.03253553376294851,
+                "rank": 13,
+                "feature": "card__longitude",
+                "correlation": 0.9984331779290855,
+                "type": "NUMERICAL"
+            },
+            "merchant__longitude": {
+                "impact": 0.008752965066612417,
+                "rank": 14,
+                "feature": "merchant__longitude",
+                "correlation": 0.982604733031748,
+                "type": "NUMERICAL"
+            },
+            "card__fico_score": {
+                "impact": 0.005760227070776869,
+                "rank": 17,
+                "feature": "card__fico_score",
+                "correlation": 0.9986568160492426,
+                "type": "NUMERICAL"
+            },
+            "days_since_card_activation": {
+                "impact": 0.0036396613898805217,
+                "rank": 19,
+                "feature": "days_since_card_activation",
+                "correlation": 0.9992390159823588,
+                "type": "NUMERICAL"
+            },
+            "merchant__latitude": {
+                "impact": 0.0014003148210838749,
+                "rank": 20,
+                "feature": "merchant__latitude",
+                "correlation": -0.9926468922477015,
+                "type": "NUMERICAL"
+            }
+        }
+    }
+}

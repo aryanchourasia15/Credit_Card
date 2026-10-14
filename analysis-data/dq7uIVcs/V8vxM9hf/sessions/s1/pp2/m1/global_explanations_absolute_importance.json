@@ -1,0 +1,24 @@
+{
+    "absoluteImportance": {
+        "merchant__subsector_description": 0.8664849361967089,
+        "signature_provided": 0.27173593420278586,
+        "card__age": 0.22404921480538453,
+        "card__first_active_month": 0.07081714329341647,
+        "card__fico_score": 0.005760227070776869,
+        "item_category": 0.2552774415571523,
+        "purchase_amount": 0.08529782164143193,
+        "days_since_card_activation": 0.0036396613898805213,
+        "purchase_hour": 0.04839971254787583,
+        "purchase_day_of_week": 0.04049397260162304,
+        "card_id": 0.006789125734037022,
+        "merchant__latitude": 0.0014003148210838749,
+        "merchant_category_id": 0.05552576679918509,
+        "card__internal_card_mapping": 0.006789125734037017,
+        "card__longitude": 0.032535533762948536,
+        "merchant__longitude": 0.008752965066612418,
+        "cardholder_location": 0.004145719096544686,
+        "card__latitude": 0.04447571495026556,
+        "merchant__merchant_id": 0.0721434710511118,
+        "purchase_month": 0.08109562640568947
+    }
+}

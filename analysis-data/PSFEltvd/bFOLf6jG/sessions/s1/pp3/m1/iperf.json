@@ -1,0 +1,53 @@
+{
+    "modelInputNRows": 79912,
+    "modelInputNCols": 488,
+    "modelInputIsSparse": false,
+    "modelInputMemory": 311976448,
+    "rawImportance": {
+        "variables": [
+            "purchase_month",
+            "card__longitude",
+            "card__age",
+            "card__fico_score",
+            "days_since_card_activation",
+            "merchant__latitude",
+            "purchase_hour",
+            "card__latitude",
+            "purchase_amount",
+            "datetime_cyclical:card__first_active_month:year:sin",
+            "datetime_cyclical:card__first_active_month:year:cos",
+            "dummy:merchant__merchant_id:M_ID_620909e2a7",
+            "dummy:merchant__merchant_id:__Others__",
+            "dummy:signature_provided:1",
+            "dummy:merchant__subsector_description:luxury goods",
+            "dummy:merchant__subsector_description:restaurant/dining",
+            "dummy:merchant__subsector_description:groceries",
+            "dummy:merchant__subsector_description:entertainment",
+            "dummy:merchant_location:POINT(-71.765 42.217)",
+            "dummy:card__internal_card_mapping:C_ID_a92e462190"
+        ],
+        "importances": [
+            0.0017473163415793337,
+            0.00650041769286693,
+            0.14428086849156685,
+            0.008617014441551636,
+            0.0007563367500622032,
+            0.006019733885470331,
+            0.0007692540285990731,
+            0.0038119437937335627,
+            0.022243330270600905,
+            0.004571574828762924,
+            0.0014477142548051463,
+            0.019563105203179786,
+            0.007236362264558162,
+            0.2523329800174598,
+            0.004276258172169871,
+            0.21570720757850353,
+            0.13542498740144338,
+            0.15062504308982963,
+            0.011925708477381437,
+            0.0021428430158756504
+        ]
+    },
+    "probaAware": true
+}

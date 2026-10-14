@@ -1,0 +1,117 @@
+{
+    "perClassFacts": {
+        "unique": {
+            "merchant__subsector_description": {
+                "impact": 0.8583095338858193,
+                "rank": 1,
+                "feature": "merchant__subsector_description",
+                "positiveCategoricalValue": "gym",
+                "negativeCategoricalValue": "internet",
+                "infoGain": 0.5799151714181009,
+                "type": "CATEGORICAL"
+            },
+            "item_category": {
+                "impact": 0.25490133244806107,
+                "rank": 3,
+                "feature": "item_category",
+                "positiveCategoricalValue": "D",
+                "negativeCategoricalValue": "C",
+                "infoGain": 0.6909233093138181,
+                "type": "CATEGORICAL"
+            },
+            "card__age": {
+                "impact": 0.2235759596900753,
+                "rank": 4,
+                "feature": "card__age",
+                "correlation": 0.9917138083605909,
+                "type": "NUMERICAL"
+            },
+            "purchase_amount": {
+                "impact": 0.08531783716572662,
+                "rank": 6,
+                "feature": "purchase_amount",
+                "correlation": -0.9993733654282276,
+                "type": "NUMERICAL"
+            },
+            "purchase_month": {
+                "impact": 0.08041656653310632,
+                "rank": 7,
+                "feature": "purchase_month",
+                "correlation": 0.9573644201960171,
+                "type": "NUMERICAL"
+            },
+            "merchant__merchant_category_id": {
+                "impact": 0.051981309220519856,
+                "rank": 9,
+                "feature": "merchant__merchant_category_id",
+                "correlation": 0.9886452118119572,
+                "type": "NUMERICAL"
+            },
+            "purchase_hour": {
+                "impact": 0.04861980928611297,
+                "rank": 10,
+                "feature": "purchase_hour",
+                "correlation": 0.9712867336215508,
+                "type": "NUMERICAL"
+            },
+            "card__latitude": {
+                "impact": 0.04438590500147458,
+                "rank": 11,
+                "feature": "card__latitude",
+                "correlation": -0.9986569606136028,
+                "type": "NUMERICAL"
+            },
+            "purchase_day_of_week": {
+                "impact": 0.04037838640806308,
+                "rank": 12,
+                "feature": "purchase_day_of_week",
+                "correlation": 0.928496747770859,
+                "type": "NUMERICAL"
+            },
+            "card__longitude": {
+                "impact": 0.03270477738291798,
+                "rank": 13,
+                "feature": "card__longitude",
+                "correlation": 0.9993286336940443,
+                "type": "NUMERICAL"
+            },
+            "card__reward_program": {
+                "impact": 0.021824114861496775,
+                "rank": 14,
+                "feature": "card__reward_program",
+                "positiveCategoricalValue": "travel",
+                "negativeCategoricalValue": "cash_back",
+                "infoGain": 0.6672336694282288,
+                "type": "CATEGORICAL"
+            },
+            "merchant__longitude": {
+                "impact": 0.008374083117226544,
+                "rank": 15,
+                "feature": "merchant__longitude",
+                "correlation": 0.9979393428803071,
+                "type": "NUMERICAL"
+            },
+            "card__fico_score": {
+                "impact": 0.005598786937444839,
+                "rank": 17,
+                "feature": "card__fico_score",
+                "correlation": 0.9986568160492426,
+                "type": "NUMERICAL"
+            },
+            "days_since_card_activation": {
+                "impact": 0.003514716360241293,
+                "rank": 19,
+                "feature": "days_since_card_activation",
+                "correlation": 0.9991943063013151,
+                "type": "NUMERICAL"
+            },
+            "merchant__latitude": {
+                "impact": 0.0017602558278540876,
+                "rank": 20,
+                "feature": "merchant__latitude",
+                "correlation": -0.9969529971575877,
+                "type": "NUMERICAL"
+            }
+        }
+    }
+}

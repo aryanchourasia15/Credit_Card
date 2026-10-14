@@ -1,0 +1,60 @@
+{
+    "perClassFacts": {
+        "unique": {
+            "merchant__subsector_description": {
+                "impact": 0.2331641007821522,
+                "rank": 1,
+                "feature": "merchant__subsector_description",
+                "positiveCategoricalValue": "restaurant/dining",
+                "negativeCategoricalValue": "internet",
+                "infoGain": 0.5183397302526579,
+                "type": "CATEGORICAL"
+            },
+            "signature_provided": {
+                "impact": 0.1652897877259111,
+                "rank": 2,
+                "feature": "signature_provided",
+                "positiveCategoricalValue": "1",
+                "negativeCategoricalValue": "0",
+                "infoGain": 0.5730569171314204,
+                "type": "CATEGORICAL"
+            },
+            "item_category": {
+                "impact": 0.10773924711851021,
+                "rank": 3,
+                "feature": "item_category",
+                "positiveCategoricalValue": "D",
+                "negativeCategoricalValue": "C",
+                "infoGain": 0.5826963435574413,
+                "type": "CATEGORICAL"
+            },
+            "merchant_id": {
+                "impact": 0.015933907687243603,
+                "rank": 9,
+                "feature": "merchant_id",
+                "positiveCategoricalValue": "M_ID_00a6ca8a8a",
+                "negativeCategoricalValue": "M_ID_00a6ca8a8a",
+                "infoGain": 0.6277179563546929,
+                "type": "CATEGORICAL"
+            },
+            "merchant_location": {
+                "impact": 0.012005496866878407,
+                "rank": 12,
+                "feature": "merchant_location",
+                "positiveCategoricalValue": "POINT(-71.797 42.273)",
+                "negativeCategoricalValue": "POINT(-71.797 42.273)",
+                "infoGain": 0.5630113058189574,
+                "type": "CATEGORICAL"
+            },
+            "merchant__merchant_id": {
+                "impact": 0.011868074071362446,
+                "rank": 13,
+                "feature": "merchant__merchant_id",
+                "positiveCategoricalValue": "M_ID_00a6ca8a8a",
+                "negativeCategoricalValue": "M_ID_00a6ca8a8a",
+                "infoGain": 0.6127489539076532,
+                "type": "CATEGORICAL"
+            }
+        }
+    }
+}

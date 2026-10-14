@@ -1,0 +1,51 @@
+{
+    "perClassFacts": {
+        "unique": {
+            "merchant__subsector_description": {
+                "impact": 0.2524209446340392,
+                "rank": 1,
+                "feature": "merchant__subsector_description",
+                "positiveCategoricalValue": "restaurant/dining",
+                "negativeCategoricalValue": "internet",
+                "infoGain": 0.5183397302526579,
+                "type": "CATEGORICAL"
+            },
+            "item_category": {
+                "impact": 0.10156372324573508,
+                "rank": 4,
+                "feature": "item_category",
+                "positiveCategoricalValue": "D",
+                "negativeCategoricalValue": "C",
+                "infoGain": 0.5702264269244937,
+                "type": "CATEGORICAL"
+            },
+            "merchant__merchant_id": {
+                "impact": 0.017333695024134135,
+                "rank": 9,
+                "feature": "merchant__merchant_id",
+                "positiveCategoricalValue": "M_ID_00a6ca8a8a",
+                "negativeCategoricalValue": "M_ID_00a6ca8a8a",
+                "infoGain": 0.5774484367686922,
+                "type": "CATEGORICAL"
+            },
+            "merchant_location": {
+                "impact": 0.015561213540588602,
+                "rank": 11,
+                "feature": "merchant_location",
+                "positiveCategoricalValue": "POINT(-71.797 42.273)",
+                "negativeCategoricalValue": "POINT(-71.797 42.273)",
+                "infoGain": 0.5408536147840767,
+                "type": "CATEGORICAL"
+            },
+            "card__reward_program": {
+                "impact": 0.010961344572742272,
+                "rank": 13,
+                "feature": "card__reward_program",
+                "positiveCategoricalValue": "travel",
+                "negativeCategoricalValue": "cash_back",
+                "infoGain": 0.5388240040816961,
+                "type": "CATEGORICAL"
+            }
+        }
+    }
+}
